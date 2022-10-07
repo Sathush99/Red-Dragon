@@ -12,7 +12,7 @@ global.APIKeys = {
 }
 
 global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+🤷‍♀️මොකක්ද මචන් ඕනෙ උදව්ව?😉` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -29,11 +29,11 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
-global.ytname = "" // yt chanel name
-global.socialm = "GitHub: prabhasha2006" // github or insta name
-global.location = "India, Mizoram, Aizawl" // location
+global.vcardowner = ['🐉  +𝟵𝟰𝟳𝟴𝟮𝟳𝟱𝟯𝟯𝟵𝟲'] // owner number
+global.ownername = "🐉  𝗦𝗔𝗧𝗛𝗨𝗦𝗛 𝗔𝗠𝗔𝗡𝗧𝗛𝗔" // owner name
+global.ytname = "" 🐉  𝗞𝗲𝗻𝗭𝗼// yt chanel name
+global.socialm = "GitHub: Sathush99" // github or insta name
+global.location = "🐉  Sri Lanka , Matara" // location
 
 //bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
